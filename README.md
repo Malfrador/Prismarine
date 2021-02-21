@@ -5,7 +5,7 @@ MIMC modifies Paperclip and Waterfall to allow Minecraft to run one world with m
 
 ## Getting started 
 
-    git clone https://github.com/nckk-mc/mimc.git
+    git clone https://github.com/Malfrador/Prismarine/Prismarine.git
 	cd mimc
 	
 	In case of using linux use this command to make the file executable:
